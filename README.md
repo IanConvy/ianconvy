@@ -31,3 +31,5 @@ This is where I keep the code for many of the professional and personal projects
         - Power BI, DAX, M, data visualization
     - [Dimensionality Reduction and Generative Modeling using Wavelets](https://github.com/IanConvy/wavelet-reconstructor)
         - Python, TensorFlow, wavelet analysis, generative machine learning
+    - [The Library of Juggling](https://github.com/IanConvy/libraryofjuggling)
+        - HTML/CSS, Jekyll, Liquid
